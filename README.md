@@ -1,6 +1,7 @@
 # MyHorse
 
-**Author:** locks
+## Author
+- Plugin developed by **herbs.acab**
 
 ## Overview
 
